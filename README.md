@@ -1,3 +1,3 @@
 # Food-Landing-page
- - Sử dụng HTML - CSS - JS 
+ -  HTML - CSS - JS 
  - Responsive 
